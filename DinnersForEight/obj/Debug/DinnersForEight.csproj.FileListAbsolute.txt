@@ -1,0 +1,9 @@
+c:\users\gregg\documents\visual studio 2013\Projects\DinnersForEight\DinnersForEight\bin\Debug\DinnersForEight.exe.config
+c:\users\gregg\documents\visual studio 2013\Projects\DinnersForEight\DinnersForEight\bin\Debug\DinnersForEight.exe
+c:\users\gregg\documents\visual studio 2013\Projects\DinnersForEight\DinnersForEight\bin\Debug\DinnersForEight.pdb
+c:\users\gregg\documents\visual studio 2013\Projects\DinnersForEight\DinnersForEight\obj\Debug\DinnersForEight.csprojResolveAssemblyReference.cache
+c:\users\gregg\documents\visual studio 2013\Projects\DinnersForEight\DinnersForEight\obj\Debug\DinnersForEight.Properties.Resources.resources
+c:\users\gregg\documents\visual studio 2013\Projects\DinnersForEight\DinnersForEight\obj\Debug\DinnersForEight.csproj.GenerateResource.Cache
+c:\users\gregg\documents\visual studio 2013\Projects\DinnersForEight\DinnersForEight\obj\Debug\DinnersForEight.exe
+c:\users\gregg\documents\visual studio 2013\Projects\DinnersForEight\DinnersForEight\obj\Debug\DinnersForEight.pdb
+c:\users\gregg\documents\visual studio 2013\Projects\DinnersForEight\DinnersForEight\obj\Debug\DinnersForEight.Form1.resources
